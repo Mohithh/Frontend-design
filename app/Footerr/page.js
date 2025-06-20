@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Page= () => {
+const Page = () => {
   return (
     <div className="flex flex-col min-h-screen bg-white">
       {/* Main Content Placeholder */}
@@ -39,10 +39,10 @@ const Page= () => {
               </ul>
             </div>
           </div>
-        </div> 
+        </div>
       </footer>
     </div>
   )
 }
 
-export default page
+export default Page 
