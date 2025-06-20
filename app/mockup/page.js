@@ -79,7 +79,7 @@ const Page= () => {
               left: '0px',
               objectFit: 'cover',
             }}
-          />
+          /> 
         </div>
       </div>
     </div>
