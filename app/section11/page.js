@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 
-const page = () => {
+const Page= () => {
   return (
     <div className="bg-[#f9f9f9] py-16 flex flex-col items-center">
       {/* Title */}

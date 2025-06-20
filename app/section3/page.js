@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Page = () => {
+const Page= () => {
   return (
     <div className="bg-white py-12 px-6 flex flex-col items-center">
       {/* Heading */}

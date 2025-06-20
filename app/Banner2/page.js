@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Page = () => {
+const Page= () => {
   return (
     <div
       className="w-full min-h-screen relative bg-cover bg-center flex items-center justify-center"

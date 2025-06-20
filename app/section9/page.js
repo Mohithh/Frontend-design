@@ -2,7 +2,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const Page = () => {
+const Page= () => {
   return (
     <div className="flex items-center justify-center px-10 py-16 space-x-10">
       

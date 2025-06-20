@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 
-const Page = () => {
+const Page= () => {
   return (
     <div className="bg-[#F3F3F3] px-6 py-16">
       <div className="max-w-[1200px] mx-auto grid grid-cols-12 gap-4 items-start">

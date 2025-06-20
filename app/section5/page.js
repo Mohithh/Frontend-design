@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 
-const Page = () => {
+const Page= () => {
   return (
     <div className="bg-white px-6 py-16 max-w-6xl mx-auto text-center">
       {/* Heading */}

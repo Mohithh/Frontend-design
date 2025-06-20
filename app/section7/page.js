@@ -2,7 +2,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const Page = () => {
+const Page= () => {
   return (
     <div className="w-screen h-screen flex items-center justify-center overflow-hidden">
       <div className="w-[1359px] h-[691px] flex">

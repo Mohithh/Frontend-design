@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Page = () => {
+const Page= () => {
   const bulletIcon = '/section 2 para.png';
   const rightImage = '/section 1 img 3.png';
 

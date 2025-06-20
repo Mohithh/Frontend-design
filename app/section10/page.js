@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 
-const page = () => {
+const Page= () => {
   return (
     <div className="relative bg-[#f1f1f1] min-h-screen flex items-start pt-20 mt-24">
       {/* Left content */}

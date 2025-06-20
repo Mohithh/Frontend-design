@@ -29,7 +29,7 @@ const people = [
   }
 ]
 
-const Page = () => {
+const Page= () => {
   return (
     <div className="bg-[#0056d2] text-white px-12 py-10">
       <div className="flex justify-between items-start mb-16">

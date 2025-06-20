@@ -5,7 +5,7 @@ import { Phone } from 'lucide-react';
 const phoneNumber = '123456789';
 const buttonLabel = 'Loerum Ipsum';
 
-const Page = () => {
+const Page= () => {
   
 
   const imageSize = 'w-16 h-16';

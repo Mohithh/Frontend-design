@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-const Page = () => {
+const Page= () => {
   return (
     <div className="w-full bg-gray-200 py-16">
       <div className="max-w-[1200px] mx-auto flex flex-col md:flex-row items-center justify-between px-6">

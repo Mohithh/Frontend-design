@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRight } from 'lucide-react';
 
-const Page = () => {
+const Page= () => {
   return (
     <div
       className="min-h-screen bg-cover bg-center flex flex-col items-center justify-start px-6 py-10"

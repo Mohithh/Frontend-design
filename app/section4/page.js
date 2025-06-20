@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Page = () => {
+const Page= () => {
   const images = [
     '/section4 img 1.png',
     '/section4 img 2.png',

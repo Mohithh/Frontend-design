@@ -1,6 +1,6 @@
 import React from 'react'
 
-const page = () => {
+const Page= () => {
   return (
     <div className="flex flex-col min-h-screen bg-white">
       {/* Main Content Placeholder */}

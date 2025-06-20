@@ -25,7 +25,7 @@ const faqs = [
   },
 ]
 
-const page = () => {
+const Page = () => {
   const [openIndex, setOpenIndex] = useState(0)
 
   const toggleFAQ = (index) => {
@@ -65,4 +65,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
